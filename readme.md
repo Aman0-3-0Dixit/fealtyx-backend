@@ -224,3 +224,7 @@ To test API functionality, you can use `curl` commands from the terminal, as sho
   ```bash
   curl -X DELETE http://localhost:8080/students/1
   ```
+
+
+  I have deployed this on render so anyone can test this project through this link using curl commands or Postman Tool(the format remains same just change the url above with this one):
+  https://fealtyx-backend-1.onrender.com/
